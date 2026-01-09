@@ -5,4 +5,4 @@ This is a demo for Git &amp; Githup class.
 Shradha Khapra
 
 # Student
-Sigma student.
+Sigma student..
